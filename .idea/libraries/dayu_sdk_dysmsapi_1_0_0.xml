@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="dayu-sdk-dysmsapi-1.0.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/wang/dreamland/www/dayu-sdk-dysmsapi/1.0.0/dayu-sdk-dysmsapi-1.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/wang/dreamland/www/dayu-sdk-core/3.3.1/dayu-sdk-core-3.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$MAVEN_REPOSITORY$/wang/dreamland/www/dayu-sdk-core/3.3.1/dayu-sdk-core-3.3.1.jar!/" recursive="false" />
+    <jarDirectory url="jar://$MAVEN_REPOSITORY$/wang/dreamland/www/dayu-sdk-dysmsapi/1.0.0/dayu-sdk-dysmsapi-1.0.0.jar!/" recursive="false" />
+  </library>
+</component>
